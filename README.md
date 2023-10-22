@@ -1,4 +1,4 @@
-## 👋 My Introduction
+## 🙋‍♂️ My Introduction
 Hello, I'm Sagar. A Frontend Developer who has developed a new passion for working with data.
 I aspire to become a Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 - Querying data using SQL.
@@ -13,3 +13,4 @@ Welcome to my portfolio, where I showcase my [projects]().
 - Visualization: Power BI
 ### 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/5ifar)
+- [Medium]()
