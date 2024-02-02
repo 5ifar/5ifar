@@ -12,5 +12,5 @@ Welcome to my portfolio, where I showcase my [projects]().
 - Database: PostgreSQL, MySQL
 - Visualization: Power BI
 ### 👋🏻 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/5ifar)
+- [Linkedin](https://www.linkedin.com/in/sagarmorework)
 - [Medium]()
