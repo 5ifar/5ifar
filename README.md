@@ -13,4 +13,4 @@ Welcome to my portfolio, where I showcase my [projects]().
 - Visualization: Power BI
 ### 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/sagarmorework)
-- [Medium]()
+- [Medium](https://medium.com/@sagarmore.work)
