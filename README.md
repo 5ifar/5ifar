@@ -14,21 +14,13 @@ Welcome to my portfolio, where I showcase my Projects:
 - [Project](link)
 
 ## Tools and Languages:
-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-- ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
-
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
 
 ## Let's Connect:
-- [Linkedin](https://www.linkedin.com/in/sagarmorework)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework) | [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=affine&logoColor=white)]() | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=affine&logoColor=white)]()
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com)
-
+##
 Feel free to explore my Git repositories and reach out to me for opportunities, collaboration, feedback  or just to say hi!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=5ifar&show_icons=true&locale=en" alt="5ifar" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=5ifar&" alt="5ifar" /></p>
