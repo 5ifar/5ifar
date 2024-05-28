@@ -22,5 +22,5 @@ Welcome to my portfolio, where I showcase my Projects:
 ##
 Feel free to explore my Git repositories and reach out to me for opportunities, collaboration, feedback  or just to say hi!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=5ifar&show_icons=true&locale=en" alt="5ifar" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=5ifar&" alt="5ifar" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=5ifar&show_icons=true&locale=en" alt="5ifar" width="50%" height="50%">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=5ifar&" alt="5ifar" width="40%" height="40%">
