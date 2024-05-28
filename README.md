@@ -14,10 +14,19 @@ Welcome to my portfolio, where I showcase my Projects:
 - [Project](link)
 
 ## Tools and Languages:
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
+<!--![](https://img.shields.io/badge/|-Tableau-informational?style=flat&logo=Tableau&color=blue)-->
+![](https://img.shields.io/badge/|-PowerBI-informational?style=flat&logo=PowerBI&color=yellow)
+![](https://img.shields.io/badge/|-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=336791)
+![](https://img.shields.io/badge/|-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
+![](https://img.shields.io/badge/|-Excel-informational?style=flat&logo=microsoftExcel&color=green)
+<!--![](https://img.shields.io/badge/|-R-informational?style=flat&logo=R&color=informational)
+![](https://img.shields.io/badge/|-Python-informational?style=flat&logo=Python&color=yellow)-->
+
 
 ## Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework) | [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=affine&logoColor=white)]() | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework)
+[![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)]()
+[![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com)
 
 ##
 Feel free to explore my Git repositories and reach out to me for opportunities, collaboration, feedback  or just to say hi!
