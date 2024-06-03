@@ -11,7 +11,7 @@ Explore my repositories to see how I can contribute to your team’s success!
 
 ## Projects:
 Welcome to my portfolio, where I showcase my Projects:
-- [Project](link)
+- [AtliQ Sales and Finance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)
 
 ## Tools and Languages:
 <!--![](https://img.shields.io/badge/|-Tableau-informational?style=flat&logo=Tableau&color=blue)-->
