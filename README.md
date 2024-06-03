@@ -1,11 +1,13 @@
 ## <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" width="60%" height="60%" align="center">
 
 ## 👋🏼 Hi, I'm Sagar!
-Welcome to my GitHub profile. I was a Frontend Developer who has developed a new passion for working with Data!
+Welcome to my GitHub profile! I am a Data Analyst with a passion for turning data into actionable insights. I am skilled in PowerBI, SQL and Excel, and thrive on the challenge of diving deep into data to uncover trends and insights that drive business success.
 
-I'm passionate about leveraging my analytic skills to empower businesses to make strategic data-driven decisions and drive innovation.
+My journey into data analysis began while working for 3.5 yrs as a SAP UI5 Frontend Developer at Accenture, where I discovered my innate abilities in this field. There, I not only developed apps but also analyzed the data they generated, honing my analytical skills & helping my clients with crucial, data-driven business decisions.
 
-With a strong foundation in tools like PowerBI, SQL, and Excel coupled with UI/UX design skills acquired through my 3 years of experience at Accenture, I aim to combine my technical expertise and nack for user friendly design with business acumen to deliver impactful data backed solutions.
+Holding a Bachelor's degree in Electronics & Telecommunication, I bring a unique perspective to data analysis, blending technical proficiency with analytical acumen. This combined with my practical experience in data analysis and nack for user friendly design, positions me uniquely to help organizations leverage their data for strategic business advantage.
+
+Explore my repositories to see how I can contribute to your team’s success! 
 
 ## Projects:
 Welcome to my portfolio, where I showcase my Projects:
