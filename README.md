@@ -34,5 +34,5 @@ Feel free to explore my Git repositories and reach out to me for opportunities, 
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=5ifar&show_icons=true&locale=en" alt="5ifar" width="50%" height="50%">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=5ifar&" alt="5ifar" width="40%" height="40%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=5ifar&theme=dark&show_icons=true&locale=en" alt="5ifar" width="38%" height="38%">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=5ifar&theme=dark&show_icons=true" alt="5ifar" width="40%" height="40%">
