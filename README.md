@@ -25,10 +25,6 @@ Explore my Git repositories to see how I can contribute to your team’s success
 ---
 
 ## Projects:
-Welcome to my portfolio, where I showcase my Projects:
-- [AtliQ Sales and Finance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)
-- [MeriSKILL Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)
-- [MeriSKILL HR Attrition Analysis](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis)
 
 <img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics/blob/main/Assets/Project%20Thumbnail%20-%20Upgraded.png"> **[AtliQHardwares Sales & Finance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)**
 </p> In this analysis, I explored AtliQ Hardwares - Customer, Product and Market Performance data and crafted key Sales and Finance Reports for strategic decision making using Microsoft Excel and leveraging ETL methodologies, Data Modelling, DAX, Power Query and Power Pivot.
@@ -37,7 +33,10 @@ Welcome to my portfolio, where I showcase my Projects:
 
 ## Mini Projects:
 
-Nothing to see here for now.
+<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/Project%20Thumbnail.png"> **[MeriSKILL Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)**
+</p> This internship assignment involved analysis of Sales dataset provided by MeriSKILL to identify top-selling products and revenue metrics aimed at extracting valuable insights and trends using Microsoft Power BI. The dataset includes information about Product Sales, Quantities, Revenue and Geographic data for 2019 that can be analyzed to offer valuable insights to optimize sales strategies and drive business growth.
+</p>
+<br><br><br>
 
 ---
 
