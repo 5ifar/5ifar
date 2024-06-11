@@ -13,6 +13,7 @@ Explore my repositories to see how I can contribute to your team’s success!
 Welcome to my portfolio, where I showcase my Projects:
 - [AtliQ Sales and Finance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)
 - [MeriSKILL Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)
+- [MeriSKILL HR Attrition Analysis](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis)
 
 ## Tools and Languages:
 <!--![](https://img.shields.io/badge/|-Tableau-informational?style=flat&logo=Tableau&color=blue)-->
