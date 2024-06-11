@@ -1,5 +1,4 @@
 <!-- ## <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" width="60%" height="60%" align="center"> -->
-
 ## <div align="center"> Hi, I'm Sagar! </div>
 ### <div align="center"> Data Analyst </div>
 #### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)](https://codebasics.io/portfolio/Sagar-More) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+91)8329843490-6AA84F?style=flat&logo=allocine&logoColor=white)]() </div>
@@ -21,14 +20,24 @@ Explore my Git repositories to see how I can contribute to your team’s success
 <!--![](https://img.shields.io/badge/|-Tableau-informational?style=flat&logo=Tableau&color=blue)
 ![](https://img.shields.io/badge/|-R-informational?style=flat&logo=R&color=informational)
 ![](https://img.shields.io/badge/|-Python-informational?style=flat&logo=Python&color=yellow)-->
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=5ifar&label=Profile%20Views&color=blue&style=flat&base=300" alt="5ifar" /> </p> -->
+
+---
 
 ## Projects:
 Welcome to my portfolio, where I showcase my Projects:
 - [AtliQ Sales and Finance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)
 - [MeriSKILL Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)
 - [MeriSKILL HR Attrition Analysis](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis)
+
+<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics/blob/main/Assets/Project%20Thumbnail%20-%20Upgraded.png"> **[AtliQHardwares Sales & Finance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)**
+</p> In this analysis, I explored AtliQ Hardwares - Customer, Product and Market Performance data and crafted key Sales and Finance Reports for strategic decision making using Microsoft Excel and leveraging ETL methodologies, Data Modelling, DAX, Power Query and Power Pivot.
+</p>
+<br><br><br>
+
+## Mini Projects:
+
+Nothing to see here for now.
 
 ---
 
