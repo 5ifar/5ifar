@@ -26,7 +26,7 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ## Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics/blob/main/Assets/Project%20Thumbnail%20-%20Upgraded.png"> **[AtliQHardwares: Sales & Finance Performance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics/blob/main/Assets/Upgraded%20Project%20Thumbnail.png"> **[AtliQHardwares: Sales & Finance Performance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)**
 </p> In this analysis, I explored AtliQ Hardwares - Customer, Product and Market Performance data and crafted key Sales and Finance Reports for strategic decision making using Microsoft Excel and leveraging ETL methodologies, Data Modelling, DAX, Power Query and Power Pivot.
 </p>
 <br><br><br>
