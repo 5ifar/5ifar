@@ -33,8 +33,8 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ## Mini Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/Project%20Thumbnail.png"> **[MeriSKILL Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)**
-</p> This internship assignment involved analysis of US Regional Sales data provided by MeriSKILL to identify top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. The dataset includes information about Product Sales, Quantities, Revenue and US Geographic data for 2019 that can be analyzed to optimize sales strategies and drive business growth.
+<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/Upgraded%20Project%20Thumbnail.png"> **[MeriSKILL Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)**
+</p> This internship assignment involved analysis of US Regional Sales data provided by MeriSKILL to identify top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. The dataset includes information about Product Sales, Quantities, Revenue and US Geographic data for 2019 that was analyzed to optimize sales strategies and drive business growth.
 </p>
 <br><br><br>
 
