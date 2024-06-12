@@ -26,15 +26,15 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ## Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics/blob/main/Assets/Project%20Thumbnail%20-%20Upgraded.png"> **[AtliQHardwares Sales & Finance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics/blob/main/Assets/Project%20Thumbnail%20-%20Upgraded.png"> **[AtliQHardwares: Sales & Finance Performance Analysis](https://github.com/5ifar/AtliQHardwares_Sales_and_Finance_Analytics)**
 </p> In this analysis, I explored AtliQ Hardwares - Customer, Product and Market Performance data and crafted key Sales and Finance Reports for strategic decision making using Microsoft Excel and leveraging ETL methodologies, Data Modelling, DAX, Power Query and Power Pivot.
 </p>
 <br><br><br>
 
 ## Mini Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/Upgraded%20Project%20Thumbnail.png"> **[MeriSKILL Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)**
-</p> This internship assignment involved analysis of US Regional Sales data provided by MeriSKILL to identify top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. The dataset includes information about Product Sales, Quantities, Revenue and US Geographic data for 2019 that was analyzed to optimize sales strategies and drive business growth.
+<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/Upgraded%20Project%20Thumbnail.png"> **[US Regional Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)**
+</p> This MeriSKILL Internship assignment involved analysis of US Regional Sales data to identify top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. The dataset includes information about Product Sales, Quantities, Revenue and US Geographic data for 2019 that was analyzed to optimize sales strategies and drive business growth.
 </p>
 <br><br><br>
 
