@@ -27,14 +27,14 @@ Explore my Git repositories to see how I can contribute to your team’s success
 ## Projects:
 
 <img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20-%20Project%20Thumbnail.png"> **[AtliQHardware: Sales & Finance Performance Analysis](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics)**
-</p> In this analysis, I explored AtliQ Hardware - Customer, Product and Market Performance data and crafted key Sales and Finance Reports for strategic decision making using Microsoft Excel and leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
+</p> In this project, I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
 </p>
 <br><br><br>
 
 ## Mini Projects:
 
 <img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/MeriSKILL_Sales_Analysis%20Project%20Thumbnail.png"> **[US Regional Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)**
-</p> This MeriSKILL Internship assignment involved analysis of US Regional Sales data to identify top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. The dataset includes information about Product Sales, Quantities, Revenue and US Geographic data for 2019 that was analyzed to optimize sales strategies and drive business growth.
+</p> This project involves analysis of US Regional Sales data for 2019 to optimize sales strategies by identifying top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. This analysis was done as part of my Internship assignment at MeriSKILL June 2024.
 </p>
 <br><br><br>
 
