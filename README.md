@@ -17,6 +17,7 @@ Explore my Git repositories to see how I can contribute to your team’s success
 ![](https://img.shields.io/badge/|-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=4169E1&color=4169E1)
 ![](https://img.shields.io/badge/|-Excel-informational?style=flat&logo=microsoftExcel&logoColor=217346&color=217346)
 ![](https://img.shields.io/badge/|-Canva-informational?style=flat&logo=canva&logoColor=00C4CC&color=00C4CC)
+![](https://img.shields.io/badge/|-Statistics-informational?style=flat&logo=stitcher&logoColor=000000&color=grey)
 <!--![](https://img.shields.io/badge/|-Tableau-informational?style=flat&logo=Tableau&color=blue)
 ![](https://img.shields.io/badge/|-R-informational?style=flat&logo=R&color=informational)
 ![](https://img.shields.io/badge/|-Python-informational?style=flat&logo=Python&color=yellow)-->
