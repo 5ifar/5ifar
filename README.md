@@ -29,7 +29,7 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ## Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Employee%20Attrition%20Analysis%20Project%20Thumbnail.png"> **[Employee Attrition HR Analysis](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Employee%20Attrition%20HR%20Analysis%20Project%20Thumbnail.png"> **[Employee Attrition HR Analysis](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis)**
 </p> In this project I navigate through the core of HR Analytics, the art of deriving actionable insights from employee attrition data for 1470 employees using Microsoft Power BI. It involves identifying attrition patterns across parameters like Employee Demographics, Turnover & Wellbeing and providing data-backed insights and recommendations that breath life into our employee retention strategies.
 </p>
 <br><br><br>
