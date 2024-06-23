@@ -50,3 +50,4 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=5ifar&theme=dark&show_icons=true&locale=en" alt="5ifar" width="38%" height="38%">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=5ifar&theme=dark&show_icons=true" alt="5ifar" width="40%" height="40%">
+<!--<img align="left" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=5ifar&theme=dark" alt="5ifar" width="40%" height="40%">-->
