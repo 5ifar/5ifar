@@ -1,5 +1,7 @@
 <!-- ## <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" width="60%" height="60%" align="center"> -->
-## <div align="center"> Hi, I'm Sagar! </div>
+
+## <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi!+I+am+Sagar+More.;I+am+a+Data+Enthusiast.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F!)](https://git.io/typing-svg) </div>
+
 ### <div align="center"> Data Analyst </div>
 #### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)](https://codebasics.io/portfolio/Sagar-More) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+91)8329843490-6AA84F?style=flat&logo=allocine&logoColor=white)]() </div>
 
