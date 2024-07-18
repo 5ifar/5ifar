@@ -29,19 +29,19 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ## Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Employee%20Attrition%20HR%20Analysis%20Project%20Thumbnail.png"> **[Employee Attrition HR Analysis](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Employee%20Attrition%20HR%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[Employee Attrition HR Analysis](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis)**
 </p> In this project I navigate through the core of HR Analytics, the art of deriving actionable insights from employee attrition data for 1470 employees using Microsoft Power BI. It involves identifying attrition patterns across parameters like Employee Demographics, Turnover & Wellbeing and providing data-backed insights and recommendations that breath life into our employee retention strategies.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20-%20Project%20Thumbnail.png"> **[AtliQHardware: Sales & Finance Performance Analysis](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[AtliQHardware: Sales & Finance Performance Analysis](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics)**
 </p> In this project I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
 </p>
 <br><br><br>
 
 ## Mini Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/MeriSKILL_Sales_Analysis%20Project%20Thumbnail%20Blue.png"> **[US Regional Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/MeriSKILL%20Sales%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[US Regional Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)**
 </p> This project involves analysis of US Regional Sales data for 2019 to optimize sales strategies by identifying top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. This analysis was done as part of my Internship assignment at MeriSKILL June 2024.
 </p>
 <br><br><br>
