@@ -14,12 +14,12 @@ Holding a Bachelor's degree in Electronics & Telecommunication, I bring a unique
 Explore my Git repositories to see how I can contribute to your team’s success and reach out to me for opportunities, collaboration, feedback or just to say Hi!
 
 ## My DA Toolkit:
-![](https://img.shields.io/badge/|-PowerBI-informational?style=flat&logo=PowerBI&logoColor=F2C811&color=F2C811)
-![](https://img.shields.io/badge/|-MySQL-informational?style=flat&logo=MySQL&logoColor=4479A1&color=4479A1)
-![](https://img.shields.io/badge/|-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=4169E1&color=4169E1)
-![](https://img.shields.io/badge/|-Excel-informational?style=flat&logo=microsoftExcel&logoColor=217346&color=217346)
-![](https://img.shields.io/badge/|-Canva-informational?style=flat&logo=canva&logoColor=00C4CC&color=00C4CC)
-![](https://img.shields.io/badge/|-Statistics-informational?style=flat&logo=stitcher&logoColor=000000&color=grey)
+![](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=&logoColor=F2C811&color=F2C811)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=&logoColor=4479A1&color=4479A1)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=&logoColor=4169E1&color=4169E1)
+![](https://img.shields.io/badge/Alteryx-informational?style=flat&logo=&logoColor=0078C0&color=0078C0)
+![](https://img.shields.io/badge/Excel-informational?style=flat&logo=&logoColor=217346&color=217346)
+![](https://img.shields.io/badge/Statistics-informational?style=flat&logo=&logoColor=000000&color=grey)
 <!--![](https://img.shields.io/badge/|-Tableau-informational?style=flat&logo=Tableau&color=blue)
 ![](https://img.shields.io/badge/|-R-informational?style=flat&logo=R&color=informational)
 ![](https://img.shields.io/badge/|-Python-informational?style=flat&logo=Python&color=yellow)-->
