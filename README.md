@@ -13,17 +13,26 @@ Holding a Bachelor's degree in Electronics & Telecommunication, I bring a unique
 
 Explore my Git repositories to see how I can contribute to your team’s success and reach out to me for opportunities, collaboration, feedback or just to say Hi!
 
-## My DA Toolkit:
-![](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=&logoColor=F2C811&color=F2C811)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=&logoColor=4479A1&color=4479A1)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=&logoColor=4169E1&color=4169E1)
-![](https://img.shields.io/badge/Alteryx-informational?style=flat&logo=&logoColor=0078C0&color=0078C0)
-![](https://img.shields.io/badge/Excel-informational?style=flat&logo=&logoColor=217346&color=217346)
-![](https://img.shields.io/badge/Statistics-informational?style=flat&logo=&logoColor=000000&color=grey)
-<!--![](https://img.shields.io/badge/|-Tableau-informational?style=flat&logo=Tableau&color=blue)
-![](https://img.shields.io/badge/|-R-informational?style=flat&logo=R&color=informational)
-![](https://img.shields.io/badge/|-Python-informational?style=flat&logo=Python&color=yellow)-->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=5ifar&label=Profile%20Views&color=blue&style=flat&base=300" alt="5ifar" /> </p> -->
+## My Toolkit:
+
+### Data ETL & Visualisation:
+| Power BI | MySQL | PostgreSQL | Alteryx | Jupyter | Excel | Statistics |
+|-|-|-|-|-|-|-|
+| <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/5ifar/5ifar/blob/main/Assets/Alteryx%20Icon.svg" title="Alteryx" alt="Alteryx" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/5ifar/5ifar/blob/main/Assets/Excel%20Icon.svg" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://github.com/5ifar/5ifar/blob/main/Assets/Statistic%20Icon.png" title="Statistics" alt="Statistics" width="55" height="55"/> |
+
+<!-- | Conda | Spark | Plotly | Matpltlib | DAX Studio |
+|-|-|-|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | -->
+
+### Languages:
+| Python 3 | JS |
+|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+
+<!-- ### Main libraries for Python 3:
+| Numpy | Pandas | Sklearn | Pytorch |
+|-|-|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/> | -->
 
 ---
 
@@ -58,6 +67,6 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=5ifar&theme=dark&show_icons=true&locale=en" alt="5ifar" width="38%" height="38%">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=5ifar&theme=dark&show_icons=true" alt="5ifar" width="40%" height="40%">
+### <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=5ifar&theme=vision-friendly-dark&show_icons=true&locale=en" alt="5ifar" width="38%" height="38%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=5ifar&theme=dark&show_icons=true" alt="5ifar" width="40%" height="40%"> </div>
+### <div align="center"> <img src="https://komarev.com/ghpvc/?username=5ifar&style=for-the-badge&color=orange&base=300" alt="5ifar"/> </div>
 <!--<img align="left" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=5ifar&theme=dark" alt="5ifar" width="40%" height="40%">-->
