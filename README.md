@@ -38,7 +38,7 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ## Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/WholesaleStore_Order_Data_Transformation/blob/main/Assets/Wholesale%20Store%20Order%20Data%20Transformation%20Project%20Thumbnail%2BIcon.png"> **[Wholesale Store Orders Data ETL](https://github.com/5ifar/WholesaleStore_Orders_Data_ETL)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/WholesaleStore_Orders_Data_ETL/blob/main/Assets/Wholesale%20Store%20Orders%20Data%20ETL%20Project%20Thumbnail%2BIcon.png"> **[Wholesale Store Orders Data ETL](https://github.com/5ifar/WholesaleStore_Orders_Data_ETL)**
 </p> In this project I implemented the ETL process on a fictional Wholesale Store 2021 Orders Dataset using Alteryx Designer. It invlolved processing 482 Thousand Orders data from a Point of Sale (POS) system, as well as an export from the Order Returns department that is generated every month and finally exporting the transformed Orders and Customers data to be stored long-term in the Data Warehouse for reporting purposes.
 </p>
 <br><br><br>
