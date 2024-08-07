@@ -29,6 +29,11 @@ Explore my Git repositories to see how I can contribute to your team’s success
 |-|-|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
+### Python 3 Libraries:
+| NumPy |
+|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |
+
 <!-- ### Main libraries for Python 3:
 | Numpy | Pandas | Sklearn | Pytorch |
 |-|-|-|-|
