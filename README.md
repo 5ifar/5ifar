@@ -16,9 +16,9 @@ Explore my Git repositories to see how I can contribute to your team’s success
 ## My Toolkit:
 
 ### Data ETL & Visualisation:
-| Power BI | MySQL | PostgreSQL | Alteryx | Jupyter | Excel | Statistics |
-|-|-|-|-|-|-|-|
-| <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/5ifar/5ifar/blob/main/Assets/Alteryx%20Icon.svg" title="Alteryx" alt="Alteryx" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/5ifar/5ifar/blob/main/Assets/Excel%20Icon.svg" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://github.com/5ifar/5ifar/blob/main/Assets/Statistic%20Icon.png" title="Statistics" alt="Statistics" width="55" height="55"/> |
+| Power BI | MySQL | PostgreSQL | Alteryx | Excel | Statistics |
+|-|-|-|-|-|-|
+| <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/5ifar/5ifar/blob/main/Assets/Alteryx%20Icon.svg" title="Alteryx" alt="Alteryx" width="55" height="55"/> | <img src="https://github.com/5ifar/5ifar/blob/main/Assets/Excel%20Icon.svg" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://github.com/5ifar/5ifar/blob/main/Assets/Statistic%20Icon.png" title="Statistics" alt="Statistics" width="55" height="55"/> |
 
 <!-- | Conda | Spark | Plotly | Matpltlib | DAX Studio |
 |-|-|-|-|-|
@@ -29,10 +29,10 @@ Explore my Git repositories to see how I can contribute to your team’s success
 |-|-|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
-### Python 3 Libraries:
-| NumPy |
-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |
+### Python 3 IDE & Libraries:
+|Jupyter | NumPy |
+|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |
 
 <!-- ### Main libraries for Python 3:
 | Numpy | Pandas | Sklearn | Pytorch |
