@@ -2,8 +2,7 @@
 
 ## <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=600&height=100&lines=Hi!+I+am+Sagar+More.;I+am+a+Data+Enthusiast.;Checkout+my+Github+Portfolio+🥋!)](https://git.io/typing-svg) </div>
 
-### <div align="center"> Data Analyst </div>
-#### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)](#projects) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+91)8329843490-6AA84F?style=flat&logo=allocine&logoColor=white)]() </div>
+### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)](#projects) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+91)8329843490-6AA84F?style=flat&logo=allocine&logoColor=white)]() </div>
 
 Welcome to my GitHub profile! I am a Data Analyst with a passion for turning data into actionable insights. I am skilled in PowerBI, SQL (MySQL & PostgreSQL), Alteryx, Excel & Statistics, and thrive on the challenge of diving deep into data to uncover trends and insights that drive business success.
 
@@ -30,14 +29,18 @@ Explore my Git repositories to see how I can contribute to your team’s success
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
 ### Python 3 IDE & Libraries:
-|Jupyter | NumPy |
+| Jupyter | NumPy |
 |-|-|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |
 
-<!-- ### Main libraries for Python 3:
-| Numpy | Pandas | Sklearn | Pytorch |
+<!--| Numpy | Pandas | Sklearn | Pytorch |
 |-|-|-|-|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/> | -->
+
+### Misc:
+| DevOps | AppInsights | Markdown |
+|-|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Devops" alt="Devops" width="55" height="55"/> | <img src="https://symbols.getvecta.com/stencil_28/8_application-insights.e5d256458d.svg" title="Appinsights" alt="Appinsights" width="55" height="55"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86oyU1rxj0QLTB8SPyFxD3eTKEUmledUalA&s" title="Markdown" alt="Markdown" width="55" height="55"/> |
 
 ---
 
