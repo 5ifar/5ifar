@@ -38,9 +38,13 @@ Explore my Git repositories to see how I can contribute to your team’s success
 | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/> | -->
 
 ### Misc:
-| DevOps | AppInsights | Markdown |
-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Devops" alt="Devops" width="55" height="55"/> | <img src="https://symbols.getvecta.com/stencil_28/8_application-insights.e5d256458d.svg" title="Appinsights" alt="Appinsights" width="55" height="55"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86oyU1rxj0QLTB8SPyFxD3eTKEUmledUalA&s" title="Markdown" alt="Markdown" width="55" height="55"/> |
+| DevOps | AppInsights |
+|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Devops" alt="Devops" width="55" height="55"/> | <img src="https://symbols.getvecta.com/stencil_28/8_application-insights.e5d256458d.svg" title="Appinsights" alt="Appinsights" width="55" height="55"/> |
+
+<!--| Markdown |
+|-|
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86oyU1rxj0QLTB8SPyFxD3eTKEUmledUalA&s" title="Markdown" alt="Markdown" width="55" height="55"/> |-->
 
 ---
 
