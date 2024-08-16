@@ -72,7 +72,7 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ## Mini Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/MeriSKILL%20Sales%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[US Regional Sales Analysis](https://github.com/5ifar/MeriSKILL_Sales_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/MeriSKILL%20Sales%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[US Regional Sales Analysis](https://github.com/5ifar/MeriSKILL_US_Regional_Sales_Analysis)**
 </p> This project involves analysis of US Regional Sales data for 2019 to optimize sales strategies by identifying top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. This analysis was done as part of my Internship assignment at MeriSKILL June 2024.
 </p>
 <br><br><br>
