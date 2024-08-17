@@ -50,11 +50,6 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ## Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/WholesaleStore_Orders_Data_ETL/blob/main/Assets/Wholesale%20Store%20Orders%20Data%20ETL%20Project%20Thumbnail%2BIcon.png"> **[Wholesale Store Orders Data ETL](https://github.com/5ifar/WholesaleStore_Orders_Data_ETL)**
-</p> In this project I implemented the ETL process on a fictional Wholesale Store 2021 Orders Dataset using Alteryx Designer. It invlolved processing 482 Thousand Orders data from a Point of Sale (POS) system, as well as an export from the Order Returns department that is generated every month and finally exporting the transformed Orders and Customers data to be stored long-term in the Data Warehouse for reporting purposes.
-</p>
-<br><br><br>
-
 <img align="left" width="250" height="150" src="https://github.com/5ifar/Consumer_Goods_Ad-Hoc_Analysis/blob/main/Assets/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[Consumer Goods Ad-Hoc Analysis](https://github.com/5ifar/Consumer_Goods_Ad-Hoc_Analysis)**
 </p> In this project I conducted Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key Financial insights into Customer, Product and Market trends and generating Supply Chain Forecast Accuracy reports using MySQL Workbench. I also automated reporting using 12 Stored Procedures, 4 Database Views, 2 Functions and 2 Database Triggers ensuring data integrity.
 </p>
@@ -71,6 +66,11 @@ Explore my Git repositories to see how I can contribute to your team’s success
 <br><br><br>
 
 ## Mini Projects:
+
+<img align="left" width="250" height="150" src="https://github.com/5ifar/WholesaleStore_Orders_Data_ETL/blob/main/Assets/Wholesale%20Store%20Orders%20Data%20ETL%20Project%20Thumbnail%2BIcon.png"> **[Wholesale Store Orders Data ETL](https://github.com/5ifar/WholesaleStore_Orders_Data_ETL)**
+</p> In this project I implemented the ETL process on a fictional Wholesale Store 2021 Orders Dataset using Alteryx Designer. It invlolved processing 482 Thousand Orders data from a Point of Sale (POS) system, as well as an export from the Order Returns department that is generated every month and finally exporting the transformed Orders and Customers data to be stored long-term in the Data Warehouse for reporting purposes.
+</p>
+<br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/MeriSKILL%20Sales%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[US Regional Sales Analysis](https://github.com/5ifar/MeriSKILL_US_Regional_Sales_Analysis)**
 </p> This project involves analysis of US Regional Sales data for 2019 to optimize sales strategies by identifying top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. This analysis was done as part of my Internship assignment at MeriSKILL June 2024.
