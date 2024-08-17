@@ -12,7 +12,7 @@ Holding a Bachelor's degree in Electronics & Telecommunication, I bring a unique
 
 Explore my Git repositories to see how I can contribute to your team’s success and reach out to me for opportunities, collaboration, feedback or just to say Hi!
 
-## My Toolkit:
+# My Toolkit:
 
 ### Data ETL & Visualisation:
 | Power BI | MySQL | PostgreSQL | Alteryx | Excel | Statistics |
@@ -48,7 +48,7 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ---
 
-## Projects:
+# Projects:
 
 <img align="left" width="250" height="150" src="https://github.com/5ifar/Consumer_Goods_Ad-Hoc_Analysis/blob/main/Assets/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[Consumer Goods Ad-Hoc Analysis](https://github.com/5ifar/Consumer_Goods_Ad-Hoc_Analysis)**
 </p> In this project I conducted Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key Financial insights into Customer, Product and Market trends and generating Supply Chain Forecast Accuracy reports using MySQL Workbench. I also automated reporting using 12 Stored Procedures, 4 Database Views, 2 Functions and 2 Database Triggers ensuring data integrity.
