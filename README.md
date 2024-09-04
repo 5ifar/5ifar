@@ -37,6 +37,11 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 # Projects:
 
+<img align="left" width="250" height="150" src="https://github.com/5ifar/Business_Insights_360/blob/main/Assets/BI%20360%20Project%20Thumbnail%2BLogo.png"> **[Business Insights 360](https://github.com/5ifar/Business_Insights_360)**
+</p> In this project I implemented meticulous ETL process and a comprehensive analysis of AtliQ Hardware's 1.8 million transaction records from FY 2019 to FY 2022 across five critical business domains: Finance, Sales, Marketing, Supply Chain, and Executive using Power BI. By integrating key business metrics such as Net Sales, COGS, Gross Margin %, Net Profit % and Forecast Accuracy % the dashboard offers a holistic view of AtliQ's performance.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/5ifar/Customer_Cohort_Analysis/blob/main/Assets/Customer%20Cohort%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[Customer Cohort Analysis](https://github.com/5ifar/Customer_Cohort_Analysis)**
 </p> In this project I implemented Customer Cohort Analysis on fictional Ecommerce dataset for 2017 using Acquisition Cohorts based on first transaction date using Alteryx Designer. Gained actionable insights related to Customer Churn, Product engagement and other relevant business metrics.
 </p>
