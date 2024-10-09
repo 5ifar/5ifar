@@ -24,9 +24,9 @@ Explore my Git repositories to see how I can contribute to your team’s success
 |-|-|-|-|-|-|-|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" title="seaborn" alt="seaborn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> |
 
-<!-- | Conda | Spark | Plotly | DAX Studio |
-|-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | -->
+<!-- | Conda | Spark | DAX Studio |
+|-|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | -->
 
 ### Misc:
 | DevOps | AppInsights | JS | SAPUI5 |
@@ -36,6 +36,11 @@ Explore my Git repositories to see how I can contribute to your team’s success
 ---
 
 # Projects:
+
+<img align="left" width="250" height="150" src="https://github.com/5ifar/Adidas_US_Sales_EDA/blob/main/Assets/Adidas%20US%20Sales%20EDA%20Project%20Thumbnail%2BIcon.png"> **[Adidas US Sales EDA](https://github.com/5ifar/Adidas_US_Sales_EDA)**
+</p> In this project I conducted Exploratory Data Analysis (EDA) on Adidas US Sales data for FY 2020-21, focusing on retailer performance, regional sales distribution, and channel-specific trends. Using MySQL for data cleaning & ETL, Python for EDA, and Power BI for dashboarding, the project uncovers key insights to identify growth opportunities and optimize strategies to drive operational profitability.
+</p>
+<br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/AM%20Supply%20Chain%20Analysis%20Project%20Thumbnail%2BLogo.png"> **[Supply Chain Analysis](https://github.com/5ifar/AtliQMart_Supply_Chain_Analysis)**
 </p> In this project I conducted Supply Chain Analysis for AtliQ Mart, monitoring KPIs like On-Time %, In-Full %, On-Time & In-Full %, Line Fill Rate %, Volume Fill Rate % and Average Days of Delayed Delivery using Power BI. The dashboard created provides insights across cities, product categories and customers, enabling performance tracking, trend analysis, and optimization of supply chain efficiency.
