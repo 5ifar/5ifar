@@ -4,7 +4,7 @@
 
 ### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)](https://mavenanalytics.io/profile/Sagar-More/206376940) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+91)8329843490-6AA84F?style=flat&logo=allocine&logoColor=white)]() </div>
 
-Welcome to my GitHub profile! I am a Data Analyst with a passion for turning data into actionable insights. I am skilled in PowerBI, SQL (MySQL & PostgreSQL), Python, Alteryx, Excel & Statistics, and thrive on the challenge of diving deep into data to uncover trends and insights that drive business success.
+Welcome to my GitHub profile! I am a Data Analyst with a passion for turning data into actionable insights. I am skilled in PowerBI, SQL (MySQL & PostgreSQL), Python (Libs: Numpy, Pandas, Matplotlib, Seaborn, Plotly), Excel, Alteryx & Statistics, and thrive on the challenge of diving deep into data to uncover trends and insights that drive business success.
 
 My journey into data analysis began while working for 3.5 yrs as a SAP UI5 Frontend Developer at Accenture, where I discovered my innate abilities in this field. There, I not only developed apps but also analyzed the data they generated, honing my analytical skills & helping my clients with crucial, data-driven business decisions.
 
