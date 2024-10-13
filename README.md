@@ -38,7 +38,7 @@ Explore my Git repositories to see how I can contribute to your team’s success
 # Projects:
 
 <img align="left" width="250" height="150" src="https://github.com/5ifar/Adidas_US_Sales_EDA/blob/main/Assets/Adidas%20US%20Sales%20EDA%20Project%20Thumbnail%2BIcon.png"> **[Adidas US Sales EDA](https://github.com/5ifar/Adidas_US_Sales_EDA)**
-</p> In this project I conducted Exploratory Data Analysis (EDA) on Adidas US Sales data for FY 2020-21, focusing on retailer performance, regional sales distribution, and channel-specific trends. Using MySQL for data cleaning & ETL, Python for EDA, and Power BI for dashboarding, the project uncovers key insights to identify growth opportunities and optimize strategies to drive operational profitability.
+</p> In this project I conducted Exploratory Data Analysis (EDA) on Adidas US Sales data for FY 2020-21, focusing on Retailer Performance, Regional Sales Distribution, and Channel-specific Trends. Using MySQL for data cleaning & ETL, Python for EDA, and Power BI for dashboarding, the project uncovers key insights to identify growth opportunities and optimize strategies to drive operational profitability.
 </p>
 <br><br><br>
 
