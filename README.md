@@ -43,7 +43,7 @@ Explore my Git repositories to see how I can contribute to your team’s success
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/AM%20Supply%20Chain%20Analysis%20Project%20Thumbnail%2BLogo.png"> **[Supply Chain Analysis](https://github.com/5ifar/AtliQMart_Supply_Chain_Analysis)**
-</p> In this project I conducted Supply Chain Analysis for AtliQ Mart, monitoring KPIs like On-Time %, In-Full %, On-Time & In-Full %, Line Fill Rate %, Volume Fill Rate % and Average Days of Delayed Delivery using Power BI. The dashboard created provides insights across cities, product categories and customers, enabling performance tracking, trend analysis, and optimization of supply chain efficiency.
+</p> In this project I conducted Supply Chain Analysis for AtliQ Mart, monitoring KPIs like On-Time %, In-Full %, On-Time & In-Full %, Line Fill Rate %, Volume Fill Rate % and Average Days of Delayed Delivery using Power BI. The report created provides insights across cities, product categories and customers, enabling performance tracking, trend analysis, and optimization of supply chain efficiency.
 </p>
 <br><br><br>
 
